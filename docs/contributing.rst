@@ -9,9 +9,9 @@ Contributing
 There are many ways to contribute to Hunter:
 
 - Documentation
-- There is a newer version of an existing package? `Notify us <https://github.com/ruslo/hunter/issues>`__ or send a pull request with an updated version.
+- There is a newer version of an existing package? `Notify us <https://github.com/Unity-Billal-mesloub/hunter/issues>`__ or send a pull request with an updated version.
 - Missing a package in Hunter? :ref:`Add a new package <creating new>`
-- `Resolve Issues <https://github.com/ruslo/hunter/issues>`__
+- `Resolve Issues <https://github.com/Unity-Billal-mesloub/hunter/issues>`__
 
   - Can you provide an answer to an open question?
   - Can you reproduce the error?
@@ -33,7 +33,7 @@ When contributing please follow the style guides:
     Before adding or updating a package in Hunter, the package is tested.
     Tests are done to check if the source can be downloaded, built and linked.
     Head over to our
-    `repository for per package CI testing contribution <https://github.com/ingenue/hunter/branches/all?utf8=%E2%9C%93&query=pkg.>`__
+    `repository for per package CI testing contribution <https://github.com/Unity-Billal-mesloub/hunter/branches/all?utf8=%E2%9C%93&query=pkg.>`__
     to see more.
 
 .. note::
@@ -83,7 +83,7 @@ If everything seems OK:
 * Make sure you're not using :ref:`HUNTER_NO_TOOLCHAIN_ID_RECALCULATION <hunter no toolchain id recalculation>`
 * Take a look at **first** error reported by Hunter. If Hunter reports chain
   of errors the last error you see is **not relevant**!
-* Update to `latest Hunter URL/SHA1 <https://github.com/ruslo/hunter/releases>`__
+* Update to `latest Hunter URL/SHA1 <https://github.com/Unity-Billal-mesloub/hunter/releases>`__
   and check that issue you have hit is not already fixed/reported
 * Check this document if the first error you see is ``external.build.failed``:
 
@@ -101,7 +101,7 @@ If everything seems OK:
   there is a bug somewhere. If you want to figure out what is the origin
   of the problem please do keep ``~/.hunter`` directory.
 
-* Open an `issue <https://github.com/ruslo/hunter/issues/new>`__ and provide
+* Open an `issue <https://github.com/Unity-Billal-mesloub/hunter/issues/new>`__ and provide
   next info:
 
   * CMake version you're using ``cmake --version``. CMake build from source?
